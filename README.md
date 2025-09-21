@@ -1,8 +1,8 @@
-# Final Project 9A – Financial Engineering
+# Final Project 9A – Financial Engineering - Gaia Imperatore and Federico Crivellaro
 
 ## Structured Credit: Tranche Pricing and Correlation Modeling
 
-This repository contains the full implementation and documentation of the final assignment for the Financial Engineering course at Politecnico di Milano. The project focuses on pricing Collateralized Debt Obligation (CDO) tranches on a large homogeneous portfolio of mortgages, using various credit risk models and correlation structures.
+This repository contains the full implementation and documentation of the final project for the Financial Engineering course held by professor Roberto Baviera at Politecnico di Milano. The project focuses on pricing Collateralized Debt Obligation (CDO) tranches on a large homogeneous portfolio of mortgages, using various credit risk models and correlation structures.
 
 The objective is to calibrate, analyze, and compare the following models:
 - Double t-Student copula with real-valued degrees of freedom
